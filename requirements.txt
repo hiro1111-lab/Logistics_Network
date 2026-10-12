@@ -1,0 +1,7 @@
+networkx>=3.0
+pandas
+matplotlib
+streamlit>=1.50
+pyvis
+japanize-matplotlib  # 任意（日本語フォント）。Python 3.12以降では読み込めないことがあり、その場合はOSのフォントを自動で使う
+pytest
